@@ -1,1 +1,2 @@
-config-tex.yml
+config:
+  info: config-tex.yml
